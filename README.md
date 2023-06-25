@@ -89,68 +89,68 @@
  
 <!-- STACK_FRONTEND -->
 
-[apollo]: https://img.shields.io/badge/-Apollo-151515?style=flat-square&logoColor=white&logo=apollo-graphql
-[react]: https://img.shields.io/badge/-React-151515?style=flat-square&logoColor=white&logo=react
-[vue]: https://img.shields.io/badge/-Vue-151515?style=flat-square&logoColor=white&logo=vuedotjs
-[nuxt]: https://img.shields.io/badge/-Vue-151515?style=flat-square&logoColor=white&logo=nuxtdotjs
-[next]: https://img.shields.io/badge/-Next-151515?style=flat-square&logoColor=white&logo=nextdotjs
-[apollo]: https://img.shields.io/badge/-Apollo-151515?style=flat-square&logoColor=white&logo=apollo-graphql
-[tailwind]: https://img.shields.io/badge/-Tailwind-151515?style=flat-square&logoColor=white&logo=tailwind-css
-[unocss]: https://img.shields.io/badge/-UnoCSS-151515?style=flat-square&logoColor=white&logo=unocss
-[sass]: https://img.shields.io/badge/-Sass-151515?style=flat-square&logoColor=white&logo=sass
-[electron]: https://img.shields.io/badge/-Electron-151515?style=flat-square&logoColor=white&logo=electron
-[vite]: https://img.shields.io/badge/-Vite-151515?style=flat-square&logoColor=white&logo=vite
-[windicss]: https://img.shields.io/badge/-WindiCSS-151515?style=flat-square&logoColor=white&logo=windi-css
+[apollo]: https://img.shields.io/badge/-Apollo-151515?style=flat-square&logoColor=ceaa37&logo=apollo-graphql
+[react]: https://img.shields.io/badge/-React-151515?style=flat-square&logoColor=ceaa37&logo=react
+[vue]: https://img.shields.io/badge/-Vue-151515?style=flat-square&logoColor=ceaa37&logo=vuedotjs
+[nuxt]: https://img.shields.io/badge/-Vue-151515?style=flat-square&logoColor=ceaa37&logo=nuxtdotjs
+[next]: https://img.shields.io/badge/-Next-151515?style=flat-square&logoColor=ceaa37&logo=nextdotjs
+[apollo]: https://img.shields.io/badge/-Apollo-151515?style=flat-square&logoColor=ceaa37&logo=apollo-graphql
+[tailwind]: https://img.shields.io/badge/-Tailwind-151515?style=flat-square&logoColor=ceaa37&logo=tailwind-css
+[unocss]: https://img.shields.io/badge/-UnoCSS-151515?style=flat-square&logoColor=ceaa37&logo=unocss
+[sass]: https://img.shields.io/badge/-Sass-151515?style=flat-square&logoColor=ceaa37&logo=sass
+[electron]: https://img.shields.io/badge/-Electron-151515?style=flat-square&logoColor=ceaa37&logo=electron
+[vite]: https://img.shields.io/badge/-Vite-151515?style=flat-square&logoColor=ceaa37&logo=vite
+[windicss]: https://img.shields.io/badge/-WindiCSS-151515?style=flat-square&logoColor=ceaa37&logo=windi-css
 
 <!-- STACK_BACKEND -->
 
-[node]: https://img.shields.io/badge/-Node.js-151515?style=flat-square&logoColor=white&logo=node.js
-[sqlite]: https://img.shields.io/badge/-SQLite-151515?style=flat-square&logoColor=white&logo=sqlite
-[postgresql]: https://img.shields.io/badge/-PostgreSQL-151515?style=flat-square&logoColor=white&logo=postgresql
-[mongodb]: https://img.shields.io/badge/-MongoDB-151515?style=flat-square&logoColor=white&logo=mongodb
-[nginx]: https://img.shields.io/badge/-Nginx-151515?style=flat-square&logoColor=white&logo=nginx
-[graphql]: https://img.shields.io/badge/-GraphQL-151515?style=flat-square&logoColor=white&logo=graphql
-[firebase]: https://img.shields.io/badge/-Firebase-151515?style=flat-square&logoColor=white&logo=firebase
-[redis]: https://img.shields.io/badge/-Redis-151515?style=flat-square&logoColor=white&logo=redis
-[express]: https://img.shields.io/badge/-Express-151515?style=flat-square&logoColor=white&logo=express
-[nest]: https://img.shields.io/badge/-Nest-151515?style=flat-square&logoColor=white&logo=nestjs
-[socket]: https://img.shields.io/badge/-Websockets-151515?style=flat-square&logoColor=white&logo=socket.io
+[node]: https://img.shields.io/badge/-Node.js-151515?style=flat-square&logoColor=ceaa37&logo=node.js
+[sqlite]: https://img.shields.io/badge/-SQLite-151515?style=flat-square&logoColor=ceaa37&logo=sqlite
+[postgresql]: https://img.shields.io/badge/-PostgreSQL-151515?style=flat-square&logoColor=ceaa37&logo=postgresql
+[mongodb]: https://img.shields.io/badge/-MongoDB-151515?style=flat-square&logoColor=ceaa37&logo=mongodb
+[nginx]: https://img.shields.io/badge/-Nginx-151515?style=flat-square&logoColor=ceaa37&logo=nginx
+[graphql]: https://img.shields.io/badge/-GraphQL-151515?style=flat-square&logoColor=ceaa37&logo=graphql
+[firebase]: https://img.shields.io/badge/-Firebase-151515?style=flat-square&logoColor=ceaa37&logo=firebase
+[redis]: https://img.shields.io/badge/-Redis-151515?style=flat-square&logoColor=ceaa37&logo=redis
+[express]: https://img.shields.io/badge/-Express-151515?style=flat-square&logoColor=ceaa37&logo=express
+[nest]: https://img.shields.io/badge/-Nest-151515?style=flat-square&logoColor=ceaa37&logo=nestjs
+[socket]: https://img.shields.io/badge/-Websockets-151515?style=flat-square&logoColor=ceaa37&logo=socket.io
 
 
 <!-- STACK_DEVOPS -->
 
-[docker]: https://img.shields.io/badge/-Docker-151515?style=flat-square&logoColor=white&logo=docker
-[github-action]: https://img.shields.io/badge/-GitHub_Actions-151515?style=flat-square&logoColor=white&logo=githubactions
-[semantic-release]: https://img.shields.io/badge/-Semantic_Release-151515?style=flat-square&logoColor=white&logo=semanticrelease
-[vercel]: https://img.shields.io/badge/-Vercel-151515?style=flat-square&logoColor=white&logo=vercel
-[prettier]: https://img.shields.io/badge/-Prettier-151515?style=flat-square&logoColor=white&logo=prettier
-[eslint]: https://img.shields.io/badge/-ESlint-151515?style=flat-square&logoColor=white&logo=eslint
+[docker]: https://img.shields.io/badge/-Docker-151515?style=flat-square&logoColor=ceaa37&logo=docker
+[github-action]: https://img.shields.io/badge/-GitHub_Actions-151515?style=flat-square&logoColor=ceaa37&logo=githubactions
+[semantic-release]: https://img.shields.io/badge/-Semantic_Release-151515?style=flat-square&logoColor=ceaa37&logo=semanticrelease
+[vercel]: https://img.shields.io/badge/-Vercel-151515?style=flat-square&logoColor=ceaa37&logo=vercel
+[prettier]: https://img.shields.io/badge/-Prettier-151515?style=flat-square&logoColor=ceaa37&logo=prettier
+[eslint]: https://img.shields.io/badge/-ESlint-151515?style=flat-square&logoColor=ceaa37&logo=eslint
 
 
 
 <!-- STACK_HOST -->
 
-[heroku]: https://img.shields.io/badge/-Heroku-151515?style=flat-square&logoColor=white&logo=heroku
-[netlify]: https://img.shields.io/badge/-Netlify-151515?style=flat-square&logoColor=white&logo=netlify
+[heroku]: https://img.shields.io/badge/-Heroku-151515?style=flat-square&logoColor=ceaa37&logo=heroku
+[netlify]: https://img.shields.io/badge/-Netlify-151515?style=flat-square&logoColor=ceaa37&logo=netlify
 
 
 <!-- STACK_TOOLS -->
-[postman]: https://img.shields.io/badge/-Postman-151515?style=flat-square&logoColor=white&logo=postman
-[insomnia]: https://img.shields.io/badge/-Insomnia-151515?style=flat-square&logoColor=white&logo=insomnia
-[pnpm]: https://img.shields.io/badge/-pnpm-151515?style=flat-square&logoColor=white&logo=pnpm
-[npm]: https://img.shields.io/badge/-npm-151515?style=flat-square&logoColor=white&logo=npm
-[swagger]: https://img.shields.io/badge/-Swagger-151515?style=flat-square&logoColor=white&logo=swagger
+[postman]: https://img.shields.io/badge/-Postman-151515?style=flat-square&logoColor=ceaa37&logo=postman
+[insomnia]: https://img.shields.io/badge/-Insomnia-151515?style=flat-square&logoColor=ceaa37&logo=insomnia
+[pnpm]: https://img.shields.io/badge/-pnpm-151515?style=flat-square&logoColor=ceaa37&logo=pnpm
+[npm]: https://img.shields.io/badge/-npm-151515?style=flat-square&logoColor=ceaa37&logo=npm
+[swagger]: https://img.shields.io/badge/-Swagger-151515?style=flat-square&logoColor=ceaa37&logo=swagger
 
 
 <!-- STACK_IDE -->
 
-[webstorm]: https://img.shields.io/badge/-Webstorm-151515?style=flat-square&logoColor=white&logo=webstorm
+[webstorm]: https://img.shields.io/badge/-Webstorm-151515?style=flat-square&logoColor=ceaa37&logo=webstorm
 
-[vscode]: https://img.shields.io/badge/-VS_Code-151515?style=flat-square&logoColor=white&logo=visualstudiocode
+[vscode]: https://img.shields.io/badge/-VS_Code-151515?style=flat-square&logoColor=ceaa37&logo=visualstudiocode
 
 <!-- STACK_OS -->
 
-[mac]: https://img.shields.io/badge/-MacOS-151515?style=flat-square&logoColor=white&logo=apple
-[win]: https://img.shields.io/badge/-Win11-151515?style=flat-square&logoColor=white&logo=windows11
-[ubuntu]: https://img.shields.io/badge/-Ubuntu-151515?style=flat-square&logoColor=white&logo=ubuntu
-[debian]: https://img.shields.io/badge/-Debian-151515?style=flat-square&logoColor=white&logo=debian
+[mac]: https://img.shields.io/badge/-MacOS-151515?style=flat-square&logoColor=ceaa37&logo=apple
+[win]: https://img.shields.io/badge/-Win11-151515?style=flat-square&logoColor=ceaa37&logo=windows11
+[ubuntu]: https://img.shields.io/badge/-Ubuntu-151515?style=flat-square&logoColor=ceaa37&logo=ubuntu
+[debian]: https://img.shields.io/badge/-Debian-151515?style=flat-square&logoColor=ceaa37&logo=debian
