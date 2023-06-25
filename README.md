@@ -1,6 +1,7 @@
 <div align="center">
 
-![](/assets/banner.png)
+[![David GitHub Banner](./assets/banner.png)](https://deivi.me)
+
 
 <h1 align="center" style="display:flex; justify-content:center; align-items:center" >
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50px" style="max-width: 100%;margin-right:12px">
@@ -50,7 +51,7 @@
 
 
 
-[split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
+[split]: ./assets/delimiter.png
 
 
 <!-- LANG -->
