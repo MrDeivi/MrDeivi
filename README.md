@@ -21,7 +21,7 @@
 
 <br/>
 
-![][split]
+<img src="./assets/delimiter.png" style="width:100%"/>
 
 
 
@@ -47,11 +47,7 @@
 
 
 
-
-
-
-
-[split]: ./assets/delimiter.png
+ 
 
 
 <!-- LANG -->
