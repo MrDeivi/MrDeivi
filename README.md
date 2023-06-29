@@ -5,7 +5,7 @@
 
 <h1 align="center" style="display:flex; justify-content:center; align-items:center" >
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50px" style="max-width: 100%;margin-right:12px">
- Hi there, I'm <a style="margin-left:8px" href="https://github.com/MrDeivi">Mr.Deivi</a></h1>
+ Hi there, I'm <a style="margin-left:8px" href="https://github.com/MrDeivi">David</a></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&color=d4af37&pause=500&center=true&width=500&height=50&lines=Hello from David;I'm a Fullstack developer;Passionated about web systems development." alt="My name is David Alfonso" /></a>
 
@@ -57,8 +57,8 @@
 [lang-typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logoColor=white&logo=typescript
 [lang-css]: https://img.shields.io/badge/-CSS-254bdd?style=flat&logoColor=white&logo=css3
 [lang-vue]: https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D
-[lang-react]: https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB
 [lang-nuxt]: https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82
+[lang-react]: https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB
 [lang-next]: https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white
 [lang-node]: https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white
 [lang-nest]: https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white
